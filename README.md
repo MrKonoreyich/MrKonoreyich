@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💬 My discord: konoreyich?#6666
+- 💬 My discord: sinxeleza
 
 <a href="https://discord.gg/49eXCQvz4j"><img src="https://img.shields.io/badge/discord-server-brightgreen" alt="info" width="100px"></a>
 
